@@ -22,7 +22,7 @@ import Grok
 import QuizUtils
 
 urlRoot :: String
-urlRoot = "https://personal.cis.strath.ac.uk/conor.mcbride/Marx/?page="
+urlRoot = "https://personal.cis.strath.ac.uk/conor.mcbride/Bevan/?page="
 
 pageRoot :: FilePath
 pageRoot = "/home/s3/cgb08121/WWW/MarxPages/"

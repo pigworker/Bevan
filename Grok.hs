@@ -152,7 +152,7 @@ normal tu ('[':'>':s) = case span (not . ('='==)) s of
            rest <- n
            return $ concat
              [  "<a href=\"https://personal.cis.strath.ac.uk/"
-             ,  "conor.mcbride/Marx?page="
+             ,  "conor.mcbride/Bevan?page="
              ,  linkRel pa (words p)
              ,  sn
              ,  "\">", txt, "</a>", rest
